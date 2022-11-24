@@ -16,7 +16,7 @@ else
 	{
 	 document.getElementById("cuadro2").className="";}
 
-if (document.documentElement.scrollTop > 2100 )
+if (document.documentElement.scrollTop > 2200 )
 
 	{document.getElementById("cuadro3").className="Animation";}
 else 
